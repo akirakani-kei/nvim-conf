@@ -29,3 +29,8 @@ sh -c "$(curl -sS https://raw.githubusercontent.com/akirakani-kei/nvim-conf/refs
 **tree**                | nvim-tree
 **line**                | lualine
 **finder**              | telescope
+
+---
+included in [dotfiles](https://github.com/akirakani-kei/dotfiles)
+<br>
+inspired after [u/7USTIN](https://github.com/7USTIN/dotfiles/)
