@@ -1,2 +1,8 @@
 # nvim-conf
-my neovim setup
+*my neovim setup (config & install)*
+<br>
+
+### Installation script
+```shell
+curl -s https://raw.githubusercontent.com/akirakani-kei/nvim-conf/refs/heads/main/nvim-install.sh | sh && nvim
+```
