@@ -8,6 +8,8 @@ sh -c "$(curl -sS https://raw.githubusercontent.com/akirakani-kei/nvim-conf/refs
 ```
 <sub> *Proceeding with installation, if prompted, will wipe your current neovim configuration files.*
 
+<sub> **size: ~10mb**
+
 ---
 ### Screenshots
 ![image](https://github.com/user-attachments/assets/7aedd054-b11a-46dd-a8db-9d933404df6b)
