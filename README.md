@@ -4,5 +4,5 @@
 
 ### Installation script
 ```shell
-curl -s https://raw.githubusercontent.com/akirakani-kei/nvim-conf/refs/heads/main/nvim-install.sh | sh && nvim
+curl -s https://raw.githubusercontent.com/akirakani-kei/nvim-conf/refs/heads/main/nvim-install.sh | sed 's/\r//' | sh && nvim
 ```
