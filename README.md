@@ -23,12 +23,23 @@ sh -c "$(curl -sS https://raw.githubusercontent.com/akirakani-kei/nvim-conf/refs
 
 ---
 ### Specifications
-•                       | • 
-------------------------|-----------------------
-**theme**               | substrata (modified)
-**tree**                | nvim-tree
-**line**                | lualine
-**finder**              | telescope
+
+<table><tr><td>
+  <code>p</code><br><code>l</code><br><code>u</code><br><code>g</code><br><code>i</code><br><code>n</code><br><code>s</code></td><td><table>
+  <tr><td>plug-vim</td><td>plugin manager</td></tr>
+  <tr><td>nvim-tree</td><td>file explorer</td></tr>
+  <tr><td>telescope</td><td>fuzzy finder</td></tr>
+  <tr><td>line</td><td>lualine</td></tr>
+  </table>
+</td></tr></table>
+
+<table><tr><td>
+  <code>e</code><br><code>t</code><br><code>c</code></td><td><table>
+  <tr><td>theme</td><td>substrata (modified)</td></tr>
+  <tr><td>font</td><td>JetBrains Mono</td></tr>
+  <tr><td>discord rpc</td><td>presence.nvim</td></tr>
+  </table>
+</td></tr></table>
 
 ---
 included in [dotfiles](https://github.com/akirakani-kei/dotfiles)
