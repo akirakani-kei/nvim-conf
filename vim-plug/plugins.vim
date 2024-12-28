@@ -5,4 +5,5 @@ call plug#begin('~/.config/nvim/autoload/plugged')
 	Plug 'karb94/neoscroll.nvim'
 	Plug 'nvim-tree/nvim-web-devicons'
 	Plug 'nvim-lualine/lualine.nvim'
+	Plug 'andweeb/presence.nvim'
 call plug#end()
